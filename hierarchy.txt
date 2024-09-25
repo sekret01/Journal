@@ -1,0 +1,17 @@
++-- journal/
+    +-- .venv
+    +-- main.py
+    +-- journal_pack/
+    |   +-- journal.py
+    |   +-- months.py
+    |   +-- days.py
+    |   +-- entries.py
+    |   +-- data/
+    |   |   +-- data.json
+    |   +-- protected_pack/
+    |   |   +-- protect.py
+    |   |   +-- configurate.ini
+    |   |   +-- coder.py
+    +-- backup/
+    |   +--backup.py
+    +-- hierarchy.txt
