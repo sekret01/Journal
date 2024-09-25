@@ -1,0 +1,2 @@
+When you first run the program, a file called "data.json" will be created in this folder.
+It stores all the calendar data about days and entries.
