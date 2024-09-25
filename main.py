@@ -190,14 +190,6 @@ def menu():
             Admin = False
             change_console_input()
 
-        # ТЕСТОВЫЕ ФУНКЦИИ
-
-        # if command == "cc":     \u043cuYD
-        #     change_day(journal)
-        #
-        # if command == 'del':
-        #     del_day(journal)
-
 
 def main():
     global journal
