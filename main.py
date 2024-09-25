@@ -3,8 +3,6 @@ from backup.backup import backup_data
 from time import sleep
 import os
 
-# from test import del_day, change_day
-
 
 journal: Journal
 Admin: bool = False
